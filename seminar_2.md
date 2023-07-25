@@ -43,3 +43,19 @@ __Понравилось ?__
 
 git log
 git merge conflict
+
+### Другая полезная информация ###
+
+Полезные команды на будущее
+
+1. git reset
+2. git revert
+3. git restore
+4. git rebase
+5. clear
+6. git reflog
+7. git branch -d name (удалить ветку)
+8. git stash (push/pull/pop)
+9. git squash (склеить коммиты)
+10. конструкция cherry-pick
+11. конструкция --amend
