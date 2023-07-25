@@ -42,3 +42,4 @@ __Понравилось ?__
 Дописал комментарий 1
 
 git log
+git merge conflict
