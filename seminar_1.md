@@ -45,3 +45,4 @@ git log
 git merge conflict
 
 Пример добавления
+Строка Юрия 
