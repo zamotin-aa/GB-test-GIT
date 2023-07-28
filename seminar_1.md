@@ -43,3 +43,5 @@ __Понравилось ?__
 
 git log
 git merge conflict
+
+Пример добавления
