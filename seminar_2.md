@@ -58,7 +58,7 @@ git merge conflict
 
 Полезные команды на будущее
 
-1. git reset
+1. git reset --hard HEAD^1 - удаление коммита(где 1 - число последних коммитов)
 2. git revert
 3. git restore
 4. git rebase
