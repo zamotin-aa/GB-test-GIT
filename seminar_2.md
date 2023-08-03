@@ -62,7 +62,7 @@ git merge conflict
 2. git revert
 3. git restore
 4. git rebase
-5. clear
+5. clear очистит терминал
 6. git reflog
 7. git branch -d name (удалить ветку)
 8. git stash (push/pull/pop)
@@ -84,3 +84,5 @@ git merge conflict
 
 
 Привет от Андрея))) Не знаю что еще написать! Хорошего вечера, брат!)
+
+Здравствуй
